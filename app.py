@@ -38,4 +38,4 @@ def join_two_names(methods=['GET']):
 
 
 # Start server
-app_flask.run(port=8001)
+app_flask.run(port=80)
